@@ -1,0 +1,5 @@
+GOAL: Queremos mostrar que b é menor que c
+
+Pela premissa 1 sabemos que b é um tetraedro, bem como, pela premissa 2 sabemos que c é um cubo, logo, com essas duas premissas podemos concluir que b é diferente de c, I.E. eles não são idênticos.  A premissa 3 nos diz que ou c é maior do que b ou então eles são idênticos. podemos descartar a hipótese de serem idênticos pois já inferimos acima que não são. Portanto pela premissa 3 podemos dizer sem perda de generalidade que b é menor que c pelo fato de c ser maior que b. 
+
+Q.E.D
